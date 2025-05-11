@@ -15,7 +15,7 @@
 
 ###  About Me
 - 🎓 QA Graduate from SoftUni
-- 💼 Automation QA Engineer at [JullaHit](https://dev.bg/company/julla-hit/)
+- 💼 Automation QA Engineer at [JullaHit](https://jullahit.eu/)
 - 🔧 Currently working on: [OrangeHRM Autotests](https://github.com/georgiata94/orangehrm-autotests) (personal project)
 - 💡 Dedicated to building reliable and maintainable automated test frameworks
 - 🌱 Currently exploring advanced Selenium strategies and best practices
