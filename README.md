@@ -3,12 +3,13 @@
 
 <p align="center">
   <a href="https://github.com/georgiata94?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github" alt="Portfolio">
+    <img src="https://img.shields.io/badge/GitHub%20Portfolio-100000?style=flat-square&logo=github&logoColor=white&labelColor=24292e" alt="GitHub Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/georgi-atanasov-99711b2a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
 </p>
+
 
 ---
 
@@ -58,9 +59,10 @@
 ### 📫 How to Reach Me
 <p align="center">
   <a href="https://www.linkedin.com/in/georgi-atanasov-99711b2a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Georgi_Atanasov-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Georgi%20Atanasov-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:georgi.ata49@gmail.com">
-    <img src="https://img.shields.io/badge/Email-georgi.ata49@gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
