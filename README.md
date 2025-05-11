@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Georgi 👨‍💻</h1>
+<h1 align="center">Hello, I'm Georgi </h1>
 <h3 align="center">Quality Assurance Engineer from Bulgaria</h3>
 
 <p align="center">
@@ -8,19 +8,16 @@
   <a href="https://www.linkedin.com/in/georgi-atanasov-99711b2a1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:georgi.ata49@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+###  About Me
 - 🎓 QA Graduate from SoftUni
 - 💼 Automation QA Engineer at [JullaHit](https://dev.bg/company/julla-hit/)
 - 🔧 Currently working on: [OrangeHRM Autotests](https://github.com/georgiata94/orangehrm-autotests) (personal project)
-- 💡 Passionate about creating robust automated test frameworks
-- 🌱 Currently learning: Advanced Selenium techniques
+- 💡 Dedicated to building reliable and maintainable automated test frameworks
+- 🌱 Currently exploring advanced Selenium strategies and best practices
 
 ---
 
