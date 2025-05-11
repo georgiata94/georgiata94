@@ -49,7 +49,7 @@
 
 ### 🏆 Featured Projects
 1. [OrangeHRM Autotests](https://github.com/georgiata94/orangehrm-autotests)  
-   Automation framework for OrangeHRM using Java and TestNG  
+   Automation framework for OrangeHRM using Java, Selenium and TestNG  
    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk" alt="Java"> 
    <img src="https://img.shields.io/badge/TestNG-D71A1A?style=flat" alt="TestNG"> 
    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium" alt="Selenium">
